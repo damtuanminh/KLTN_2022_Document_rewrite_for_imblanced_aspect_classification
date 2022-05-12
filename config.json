@@ -1,0 +1,22 @@
+{
+  "mebeshopee": {
+    "path_data": "data/mebe_shopee.csv",
+    "random_seed": 20,
+    "num_of_aspect": 7
+  },
+  "mebetiki": {
+    "path_data": "data/mebe_tiki.csv",
+    "random_seed": 19,
+    "num_of_aspect": 7
+  },
+  "techshopee": {
+    "path_data": "data/tech_shopee.csv",
+    "random_seed": 23,
+    "num_of_aspect": 9
+  },
+  "techtiki": {
+    "path_data": "data/tech_tiki.csv",
+    "random_seed": 23,
+    "num_of_aspect": 9
+  }
+}
